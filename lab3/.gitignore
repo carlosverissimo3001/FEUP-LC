@@ -1,0 +1,5 @@
+.clang-format
+.gdbinit
+*.o
+lab3
+
