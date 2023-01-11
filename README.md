@@ -5,4 +5,4 @@ Class Syllabus [@FEUP](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?p
 
 | **Year** | **Term**  | **Course** | **Final Grade** |
 |   ---    |    ---    |    ---     |    ---          |
-| 2nd | 2nd | Bachelor in Informatics and Computing Engineering|  |
+| 2nd | 2nd | Bachelor in Informatics and Computing Engineering| 19 |
